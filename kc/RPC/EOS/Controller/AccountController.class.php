@@ -1,6 +1,6 @@
 <?php
 
-//namespace EOS\Controller;
+namespace EOS\Controller;
 
 use EOS\Common\http;
 
