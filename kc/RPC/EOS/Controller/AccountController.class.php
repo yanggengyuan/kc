@@ -21,7 +21,6 @@ class AccountController extends BaseController
         $url    = "http://127.0.0.1:8888/v1/chain/get_block";
 
         $result = http::post($url, json_encode($data));
-
         var_dump($result);
     }
 
