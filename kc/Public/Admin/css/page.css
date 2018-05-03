@@ -1,0 +1,8 @@
+/**/div.meneame{padding:3px;font-size:80%;margin:3px;text-align:center; margin-top:10px;}
+div.meneame a{border:#999 1px solid;padding:5px 7px;background-position:50% bottom;background:#FFF;margin:0 3px 0 0;text-decoration:none;}
+div.meneame a:hover{border:#999 1px solid;color:#FFF;background-color:#333;font-weight:bold}
+div.meneame span.current{border:#999 1px solid;padding:5px 7px;font-weight:bold;color:#FFF;margin:0 3px 0 0;background-color:#333; display:none; }
+
+
+
+

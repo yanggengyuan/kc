@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+.step,.step2,.step3{  width:560px; margin:50px auto; font-size:16px; color:#333; text-align:left;}
+.project{ height:800px !important;}
+.step .tit,.step2 .tit,.step3 .tit{  text-align:left; background:url(../images/first.png) no-repeat; height:40px; line-height:40px; font-size:14px; color:#aaa;padding-left:60px;}
+.step2 .tit{background:url(../images/second.png) no-repeat;}
+.step3 .tit{background:url(../images/third.png) no-repeat;}
+.tit i{ font-size:22px;}
+.tit .on{ color:#fff; }
+.tit .marstyle{ margin:0 84px 0 100px;}
+.step .tip,.step3 .tip{ height:70px; line-height:70px;}
+.step .apply label:before,.step2 .apply2 label:before{ content:''; width:12px; height:10px; display:inline-block; background:url(../images/tips.png) no-repeat;}
+.step .apply label{ width:120px; text-align:right; display:inline-block; vertical-align:middle;}
+.step .apply input{ width:246px; height:21px; line-height: 21px;  border:#ddd solid 1px; border-radius:5px; margin-bottom:20px; outline:none; padding:7px;  *vertical-align:-8px;}
+.step .apply .idcard h5{ color:#70c5e5; font-size:14px; font-weight:normal; line-height:1; padding:20px 0;}
+.step .apply .idcard li{ list-style-type:none; float:left;}
+.step .apply .idcard li p:before{ content:''; width:12px; height:10px; display:inline-block; background:url(../images/tips.png) center no-repeat;}
+.step .apply .idcard li div{ position:relative; width:170px; height:100px; margin:15px 23px 0 0;cursor:pointer;}
+.step .apply .idcard li div img:first-child{width:170px; height:100px;}
+.step .apply .idcard li div.idh{ margin-right:0;}
+.step .apply .idcard li div img.addimg{ position:absolute; top:35px; left:72px; }
+.sub{ width:260px; height:46px; font-size:16px; background:#666699; color:#fff; margin:54px 150px; -webkit-appearance: none; border:none; border-radius:4px; letter-spacing:10px; cursor:pointer;}
+.sub_next{width:260px; height:46px; line-height: 46px; text-decoration: none; text-align: center; font-size:16px; background:#666699; color:#fff; margin:54px 150px; -webkit-appearance: none; border:none; border-radius:4px; display: inline-block;}
+/*成功页面*/
+.successBox{ height:520px !important; display:none;}
+.success img{ display:block; margin:120px auto 15px;}
+.success p{ font-size:14px; color:#333; line-height:21px; margin-bottom:12px;}
+.success a{ display:inline-block; text-decoration:none;width:260px; height:46px; line-height:46px; font-size:16px; background:#666699; color:#fff; margin:54px 150px; -webkit-appearance: none; border:none; border-radius:4px; }
+/*第二步*/
+.project2{  height:1120px !important;}
+.step2 {width:580px;}
+.step2 .apply2{ padding-top:30px;}
+.step2 .apply2 label{ width:180px; text-align:right; display:inline-block;*display:inline;*zoom:1; vertical-align:1px;}
+.step2 .apply2 input[type="text"],.step2 .apply2 .data{ width:246px; height:21px; line-height: 21px; border:#ddd solid 1px; border-radius:5px; margin-bottom:20px; outline:none; padding: 7px;  *vertical-align:-8px;}
+.step2 .apply2 .type1{ width:206px !important; margin-right:8px;}
+.rpro{ display:inline-block; margin-left:-10px;}
+.downloadbtn{ margin:10px 0 10px 180px; color:#3a4fef; cursor:pointer;}
+.step2 .apply2 .upfile{ width:70px; height:30px; border-radius:4px; border:#666699 solid 1px; text-align:center; line-height:30px; color:#666699; margin-left:180px; cursor:pointer;}
+.step2 .apply2 .upfile:before{ content:''; width:0 !important;}
+/*第三步*/
+.project3{ height:960px !important;}
+.step3 .apply3 label{ width:238px; text-align:right; display:inline-block;*display:inline;*zoom:1;}
+.step3 .apply3 input[type="radio"]{ width:16px; height:16px; margin-right:11px; margin-bottom:20px;vertical-align: -3px; cursor:pointer; outline:none;*vertical-align:2px; }
+.step3 .apply3 input[type="radio"]:last-child{ margin-left:30px;}
+.step3 .apply3 input[type="text"]{ width:246px; height:21px; line-height: 21px; border:#ddd solid 1px; border-radius:5px; margin-bottom:20px; outline:none; padding:7px; *vertical-align:-8px;}
+.step3 .apply3 textarea,.step2 .apply2 textarea{width:246px; height:76px; border:#ddd solid 1px; border-radius:5px; margin-bottom:20px; outline:none; padding:7px; resize:none; vertical-align:top; overflow:auto;}
+.step3 .apply3 .lef{ text-align:left; line-height:32px; display:inline-block; text-align:justify; padding-left:6px; box-sizing:border-box;}
+.step .apply .idcard h5,.step3 .apply3 .tip3{ color:#666; font-size:14px; font-weight:normal; line-height:1; padding:0 0 10px 0;}
+.step3 .apply3 .upfile{ width:70px; height:30px; border-radius:4px; border:#666699 solid 1px; text-align:center; line-height:30px; color:#666699; cursor:pointer;}
+/*.step3 .apply3 input[type="file"]{ display:none;}*/
+.opbgs{ display:none; width:100%; height:100%; opacity:.0; position:fixed; top:0; left:0;   z-index:199;}
+.spinner {
+    margin: -50px auto 0;
+    width: 960px;
+    height: 1000px;
+    text-align: center;
+    display: none;
+}
+
+.spinner > div {
+    width: 30px;
+    height: 30px;
+    background-color: #666699;
+
+    border-radius: 100%;
+    display: inline-block;
+    -webkit-animation: bouncedelay 1.4s infinite ease-in-out;
+    animation: bouncedelay 1.4s infinite ease-in-out;
+    /* Prevent first frame from flickering when animation starts */
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
+.spinner .bounce1 {
+    -webkit-animation-delay: -0.32s;
+    animation-delay: -0.32s;
+}
+
+.spinner .bounce2 {
+    -webkit-animation-delay: -0.16s;
+    animation-delay: -0.16s;
+}
+
+@-webkit-keyframes bouncedelay {
+    0%, 80%, 100% { -webkit-transform: scale(0.0) }
+    40% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes bouncedelay {
+    0%, 80%, 100% {
+        transform: scale(0.0);
+        -webkit-transform: scale(0.0);
+    } 40% {
+          transform: scale(1.0);
+          -webkit-transform: scale(1.0);
+      }
+}
+

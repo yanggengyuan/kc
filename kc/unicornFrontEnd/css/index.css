@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0; -webkit-tap-highlight-color: transparent;}
+img{ display:block;}
+.share{ width:0; height:0;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+body{  background:#f3f2f2;font-family: tahoma, arial, 'microsoft yahei', 'simsun', sans-serif;}
+.content{ max-width:1000px;margin:0 auto;}
+.headers{  height:88px; line-height:88px;text-align:right;/* background:url(../images/logo.png) left center no-repeat #dddddd; background-size:150px 47px;*/  margin-top:-88px; }
+.headers img{ margin-top:20px; float:left; cursor:pointer;}
+.topbg{ width:100%;height:88px; background:#ddd; }
+.headers a{color:#333; text-decoration:none; font-size:16px !important;}
+.main .top,.main .bot,.main .mid{ margin:0 0 11px;}
+.main .bot,.main .mid{ padding:0 0 0 10px;}
+.main{ color:#666; font-size:14px;}
+.main h3{ text-align:center; font-size:20px; color:#333; line-height:1; padding:30px 0 13px;}
+.main p{ line-height:28px; }
+.main .top{ height:349px; background:#fff;}
+.main .top p.pro{ margin:0 15px;line-height:28px; letter-spacing:3px; text-align:justify;padding-bottom: 12px;border-bottom: #ddd solid 1px; }
+.main .top .pro{ text-indent:24px;}
+.main .top .intro{ padding:20px 0;}
+.main .intro li{ cursor:pointer;width:33.2%; float:left; list-style-type:none; text-align:center; padding-bottom:52px;}
+.main .top .intro li img{ margin:20px auto 17px; width:66px;}
+.main .intro li p{ font-size:16px; line-height:1; color:#555; text-align:center;}
+
+.main .intro .right{  border-right:#fff solid 1px; box-sizing:border-box;}
+
+.main .intro .left,.main .intro .center{  border-right:#ddd solid 1px; box-sizing:border-box;}
+.main .mid{position:relative;  border-radius:2px; background:url(../images/pcindexbg.png) no-repeat;background-size:100%;}
+.main .mid .pro,.main .bot .pro{width:660px; text-align:justify; letter-spacing:1px;}
+.main .mid p{ color:#fff;}
+.main .bot{position:relative; border-radius:2px;  background:url(../images/pcindexbg1.png) no-repeat; background-size:100%;}
+.main .bot p{  color:#333;}
+.main .but{ display:inline-block; font-size:16px;color:#fff; line-height:1; width:70px; height:35px; line-height:35px; text-align:center; margin:23px 0 30px; text-decoration:none; background:rgba(255,255,255,0.2); border-radius:3px;}
+.pro{text-indent:26px;}
+.main .ltit1{ padding:38px 0 20px; }
+.main .mid .ltit1{  width:162px;}
+.main .bot .ltit1{ width:272px;}
+.main .ltit{ font-size:20px; line-height:1; padding-bottom:19px;}
+.main .mid .logo1{ width:54px; position:absolute; top:30px; right:30px;}
+.main .bot .logo2{  width:78px; position:absolute; top:30px; right:30px;}
+.copy{ font-size:10px; line-height:15px; color:#666; padding:22px 15px 33px;}
+.copy P{ display:inline-block; font-size:14px;}
+.opbg{ display:none; width:100%; height:100%; background:#000; opacity:.5; position:fixed; top:0; left:0;   z-index:199;}
+.opbginner{  display:none; width:100%; height:100%;position:fixed; top:0; left:0; z-index:200; text-align:center; vertical-align:middle;}
+.opbgbox{ display:table-cell; width:200px; height:200px; text-align: center; vertical-align: middle;}
+.opbginner img{width:200px; height:200px; max-width:100%; max-height:100%; position:relative; z-index:211; margin:0 auto; vertical-align:middle;}
+.aboutus div{ background:#fff; border-radius:4px; margin:10px 0;overflow: hidden; font-size:14px;}
+.aboutus div p{ color:#555; padding:0 10px 20px; text-indent:28px; line-height:21px;}
+.aboutus div h3{  height:60px; padding:0; line-height:60px; text-align:left; padding-left:18px; color:#666795; font-size:20px; border-bottom:#ddd solid 1px; margin-bottom:15px;}
+.aboutus div h3 span{ font-size:16px; margin-left:20px;}
+.asecond p{ color:#fff !important; text-indent:0 !important; background:#666795; padding-bottom:0 !important;}
+.asecond p.actop{ height:80px; padding-left:80px; font-size:18px; line-height:30px; padding-top:20px;background:url(../images/usicon.png) 10px center no-repeat #666795; background-size:60px 60px;}
+.asecond p.prog{ height:54px; line-height:54px; padding-left:10px; border-top:#fff solid 1px;}
+.new_pro{ margin-right:15px; color:#666699 !important;}
+@media (max-width:767px){
+/*手机样式*/
+.new_pro{ display:none;}
+.topbg{ width:100%;height:44px; background:#ddd; }
+.headers{ height:44px; line-height:44px;/*background:url(../images/logo.png) 10px center no-repeat #dddddd; background-size:74px 23px;*/  padding:0 10px; margin-top:-44px; }
+.headers img{ margin-top:10px;width:74px;}
+.main .top,.main .bot,.main .mid{ margin:0 0 5px !important;}
+.main .bot,.main .mid{ padding:0 0 15px 10px;}
+.main{padding:0 5px; color:#666; font-size:13px !important;}
+.main h3{ text-align:center; font-size:18px !important; color:#333;padding:26px 0 13px;}
+.main p{ line-height:18px; }
+.main .top{ height:auto;}
+.main .top p.pro{line-height:20px;  }
+.main .top .pro{ text-indent:24px;}
+.main .top .intro{ padding:8px 0;}
+.main .intro li{width:33.33%;padding-bottom:14px;}
+.main .top .intro li img{ margin:0 auto 14px; width:47px;}
+.main .intro li p{ font-size:12px; }
+.main .intro .right{  border-right:#fff solid 1px; box-sizing:border-box;}
+.main .mid{position:relative;  border-radius:2px; background:url(../images/dujiaoshou.png) no-repeat #7c4fef;background-size:100%;}
+.main .mid .pro,.main .bot .pro{width:242px; }
+.main .mid p{ color:#fff;}
+.main .bot{position:relative; border-radius:2px;  background:url(../images/ajiback.png) no-repeat #f2a8ad; background-size:100%;}
+.main .bot p{  color:#000;}
+.main .but{ display:inline-block;color:#fff; line-height:1; width:36px; height:10px; line-height:11px; padding:4px 0; margin:9px 0 0; text-decoration:none; background:rgba(255,255,255,0.2); border-radius:3px; font-size:10px;}
+.pro{text-indent:26px;}
+.main .ltit1{ padding:20px 0; }
+.main .mid .ltit1{  width:31.9%;}
+.main .bot .ltit1{ width:55.1%;}
+.main .ltit{ font-size:15px; }
+.main .mid .logo1{ width:9.2%; position:absolute; top:27px; right:10px;}
+.main .bot .logo2{  width:12.45%; position:absolute; top:29px; right:5px;}
+.copy{ padding:15px 15px 20px;}
+.copy P{ display:block; font-size:10px;}
+
+.aboutus div{ background:#fff; margin:5px 0; font-size:12px;}
+.aboutus div p{ color:#555; padding:0 10px 19px; text-indent:24px; line-height:18px;}
+.aboutus div h3{height:45px;line-height:45px; padding-left:9px;  font-size:15px !important; margin-bottom:12px;}
+.aboutus div h3 span{ font-size:10px !important; margin-left:10px;}
+.asecond p{ color:#fff !important; background:#666795;}
+.asecond p.actop{ height:auto; font-size:14px; line-height:21px; padding:15px 0 15px 65px !important; background:url(../images/usicon.png) 5px center no-repeat #666795; background-size:50px 50px;}
+.asecond p.prog{ font-size:12px; height:auto; line-height:18px; text-indent:24px !important; padding:12px 7px 17px !important; border-top:#fff solid 1px;}
+}

@@ -1,0 +1,44 @@
+2018-03-27 10:34:11==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:34:12==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:34:13==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:34:13==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:34:14==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:34:14==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:34:14==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:34:27==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:34:44==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:37:03==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:37:04==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:37:05==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:37:05==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:37:06==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:37:06==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:isSelectSql鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:53:33==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:update鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:54:08==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:update鏂规硶涓嶅瓨鍦紒
+2018-03-27 10:55:51==>  用户UID 订单状态更新失败！null 异常信息 : Think\Model:exec鏂规硶涓嶅瓨鍦紒
+2018-03-27 17:54:47==>  用户UID 交易成功流水入库失败！{"status":1} 订单入库异常 : Think\Model:native_select_one鏂规硶涓嶅瓨鍦紒
+2018-03-27 17:56:04==>  用户UID 交易成功流水入库失败！{"status":1} 订单入库异常 : Think\Model:native_select_one鏂规硶涓嶅瓨鍦紒
+2018-03-27 17:56:31==>  用户UID 交易成功流水入库失败！{"status":1} 订单入库异常 : Think\Model:native_select_one鏂规硶涓嶅瓨鍦紒
+2018-03-27 17:56:31==>  用户UID 交易成功流水入库失败！{"status":1} 订单入库异常 : Think\Model:native_select_one鏂规硶涓嶅瓨鍦紒
+2018-03-27 17:56:31==>  用户UID 交易成功流水入库失败！{"status":1} 订单入库异常 : Think\Model:native_select_one鏂规硶涓嶅瓨鍦紒
+2018-03-27 18:10:32==>  用户UID10000007 交易成功流水入库失败！{"user_id":"10000007","currency_id":"1","currency_name":"IM","price_entrust":"0.00865","price_deal":"0.00860","count_entrust":"1","count_deal":"1","total_deal":"0.00860","status":1,"transaction_type":0} 订单入库异常 : Think\Model:native_select_one鏂规硶涓嶅瓨鍦紒
+2018-03-27 18:10:32==>  用户UID10000007 交易成功流水入库失败！{"user_id":"10000007","currency_id":"1","currency_name":"IM","price_entrust":"0.00865","price_deal":"0.00860","count_entrust":"1","count_deal":"1","total_deal":"0.00860","status":1,"transaction_type":0} 订单入库异常 : Think\Model:native_select_one鏂规硶涓嶅瓨鍦紒
+2018-03-27 18:10:32==>  用户UID10000007 交易成功流水入库失败！{"user_id":"10000007","currency_id":"1","currency_name":"IM","price_entrust":"0.00865","price_deal":"0.00860","count_entrust":"1","count_deal":"1","total_deal":"0.00860","status":1,"transaction_type":0} 订单入库异常 : Think\Model:native_select_one鏂规硶涓嶅瓨鍦紒
+2018-03-27 18:10:32==>  用户UID10000008 交易成功流水入库失败！{"user_id":"10000008","currency_id":"1","currency_name":"IM","price_entrust":"0.02365","price_deal":"0.01850","count_entrust":"1","count_deal":"1","total_deal":"0.01850","status":1,"transaction_type":0} 订单入库异常 : Think\Model:native_select_one鏂规硶涓嶅瓨鍦紒
+2018-03-27 18:10:32==>  用户UID10000008 交易成功流水入库失败！{"user_id":"10000008","currency_id":"1","currency_name":"IM","price_entrust":"0.02365","price_deal":"0.01850","count_entrust":"1","count_deal":"1","total_deal":"0.01850","status":1,"transaction_type":0} 订单入库异常 : Think\Model:native_select_one鏂规硶涓嶅瓨鍦紒
+2018-03-27 18:10:32==>  用户UID10000008 交易成功流水入库失败！{"user_id":"10000008","currency_id":"1","currency_name":"IM","price_entrust":"0.02365","price_deal":"0.01850","count_entrust":"1","count_deal":"1","total_deal":"0.01850","status":1,"transaction_type":0} 订单入库异常 : Think\Model:native_select_one鏂规硶涓嶅瓨鍦紒
+2018-03-27 18:13:14==>  用户UID10000008 交易成功流水入库失败！{"user_id":"10000008","currency_id":"1","currency_name":"IM","price_entrust":"0.02365","price_deal":"0.01850","count_entrust":"1","count_deal":"1","total_deal":"0.01850","status":1,"transaction_type":1} 订单入库异常 : Think\Model:native_select_one鏂规硶涓嶅瓨鍦紒
+2018-03-27 21:09:50==> 非法交易 成交价 < 买入价==>>{"id":"1","price_deal":"8225","count_deal":"0.091"}
+2018-03-27 21:11:41==> 非法交易 成交价 < 买入价==>>{"id":"1","price_deal":"8225","count_deal":"0.091"}
+2018-03-27 21:15:59==> 非法交易 成交价 < 买入价==>>{"id":"1","price_deal":"8225","count_deal":"0.091"}
+2018-03-27 21:16:48==> 非法交易 成交价 < 买入价==>>{"id":"1","price_deal":"8225","count_deal":"0.091"}
+2018-03-27 21:17:14==> 非法交易 成交价 < 买入价==>>{"id":"1","price_deal":"8225","count_deal":"0.091"}
+2018-03-27 21:17:31==> 非法交易 成交价 < 买入价==>>{"id":"1","price_deal":"8225","count_deal":"0.091"}
+2018-03-27 21:17:32==> 非法交易 成交价 < 买入价==>>{"id":"1","price_deal":"8225","count_deal":"0.091"}
+2018-03-27 21:18:41==> 非法交易 成交价 < 买入价==>>{"id":"1","price_deal":"8225","count_deal":"0.091"}
+2018-03-27 21:18:42==> 非法交易 成交价 < 买入价==>>{"id":"1","price_deal":"8225","count_deal":"0.091"}
+2018-03-27 21:19:37==> 非法交易 成交价 < 买入价==>>{"id":"1","price_deal":"8225","count_deal":"0.091"}
+2018-03-27 21:25:05==>  此订单 被更新状态只可以为 成功 或撤销！{"id":"1","price_deal":"8225","count_deal":"0.091"}
+2018-03-27 21:25:54==>  此订单 被更新状态只可以为 成功 或撤销！{"id":"1","price_deal":"8225","count_deal":"0.091"}
+2018-03-27 21:33:58==> 
+2018-03-27 21:34:00==> 

@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+.main form{ width:350px; margin:0 auto; text-align:center;}
+.main form div{ width:290px; height:45px; margin:0 auto 20px; border:#ddd solid 1px; border-radius:2px;background:url(../images/phone.png) 23px center  no-repeat; padding-left:60px;}
+
+.main form div.password{background:url(../images/password.png) 23px center  no-repeat;}
+.main form div.repassword{background:url(../images/password.png) 23px center  no-repeat;}
+
+.main form div input{ width:267px; height:30px; line-height:30px; outline:none;margin-top:7px; padding-left:22px; border:0; border-left:#ddd solid 1px; }
+.main form  button{width:350px; height:46px; line-height:46px; color:#fff; background:#666699; border-radius:2px; border:none;font-size:20px; letter-spacing:13px; cursor:pointer;}
+.main h3{ color:#666699; font-size:20px; margin:80px 0 30px; line-height:1;}
+.main a{ text-decoration:none; font-size:16px; color:#666699; margin:10px 0 0 0; display:inline-block;}
+.gtregister{ margin-left:310px;}
+.gtlogin{ text-align:center;}
+.main form div.code{width:190px; display:inline-block;*display:inline;*zoom:1;background:url(../images/yanzhengma.png) 23px center  no-repeat;}
+.main form div.code input{ width:167px;}
+.main form .imgbox{ cursor:pointer;width:90px; height:46px; display:inline-block;*display:inline;*zoom:1;*margin-left:8px; background:#666699;vertical-align: top; border-radius:2px;}
+.main form .imgbox img{ margin:auto;}
+.deal{ cursor:pointer; background:url(../images/checked.png) left 20px no-repeat;text-align:left; font-size:14px; color:#b5b5b5; line-height:1; padding:10px 0 10px 22px;}
+.deal a{ font-size:14px;}
+.on{background:url(../images/check.png) left 20px no-repeat;}
+
+@media (max-width:767px){
+	/*手机样式*/
+	/*登录页*/
+.pheader{ display:block !important;}
+.header{ background:#fff;}
+.header .top,.bottom{ display:none;}
+.main{width:100% !important; height:auto !important; border:0 !important; margin-bottom:0 !important;}
+.main h3{ margin:55px 0 30px !important;}
+.main form{ width:250px !important; }
+.main form div{ width:210px; height:40px; margin:0 auto 14px;background:url(../images/phone.png) 13px center  no-repeat; background-size:12px 17px; padding-left:40px;}
+.main form div.code{width:135px; display:inline-block;background:url(../images/yanzhengma.png) 13px center  no-repeat;background-size:14px 11px; float:left;}
+.main form div.code input{ width:124px !important;}
+.main form div.password{background:url(../images/password.png) 13px center  no-repeat;background-size:12px 17px;}
+.main form div.repassword{background:url(../images/password.png) 13px center  no-repeat;background-size:13px 17px;}
+.main form div input{ width:200px !important; height:25px; outline:none;margin-top:7px; padding-left:7px; }
+.main form  button{width:250px; height:40px; line-height:40px;font-size:15px; letter-spacing:10px;}
+.gtregister{ float:right; color:#666795 !important; font-size:13px !important;}
+.main form .imgbox{width:65px !important; height:42px; display:inline-block; background:#666699;vertical-align: top; border-radius:2px; margin:0 0 14px 8px ;}
+.tcbox{width:80% !important; margin-left:-40%;}
+.gtlogin { font-size:13px !important; margin-bottom:20px !important;}
+.deal{ font-size:10px !important; background:url(../images/checked.png) left 18px no-repeat;}
+.deal a{ font-size:10px;}
+.on{background:url(../images/check.png) left 18px no-repeat;}
+
+}

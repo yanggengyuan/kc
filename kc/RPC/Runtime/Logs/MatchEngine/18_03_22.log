@@ -1,0 +1,1316 @@
+[ 2018-03-22T15:16:05+08:00 ] 127.0.0.1 /imc/Match/testlog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-03-22T15:50:25+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2018-03-22T15:50:26+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-03-22T15:54:10+08:00 ] 127.0.0.1 /imc/Cron/myplan.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Cron
+
+[ 2018-03-22T15:58:19+08:00 ] 127.0.0.1 /imc/Cron/crons
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Cron
+
+[ 2018-03-22T16:04:24+08:00 ] 127.0.0.1 /imc/Match/testlog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2018-03-22T16:07:21+08:00 ] 127.0.0.1 /imc/Match/testlog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2018-03-22T16:08:28+08:00 ] 127.0.0.1 /imc/Match/testlog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-03-22T16:08:53+08:00 ] 127.0.0.1 /imc/Match/testlog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2018-03-22T16:12:55+08:00 ] 127.0.0.1 /imc/Match/testlog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2018-03-22T16:34:53+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [8] Undefined variable: reMatchObj D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 34 行.
+
+[ 2018-03-22T16:35:42+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-03-22T16:35:43+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-03-22T16:36:33+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-03-22T16:37:16+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2018-03-22T20:13:21+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:13:46+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:14:47+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:14:50+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:15:35+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:15:35+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:15:36+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:15:36+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:16:52+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T20:17:39+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T20:17:40+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T20:17:41+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T20:17:41+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T20:19:58+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T20:19:59+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T20:25:43+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:27:50+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:27:51+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:27:52+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:28:14+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:28:15+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:28:15+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:28:15+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:28:38+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:28:39+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:28:39+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:28:39+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:28:39+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:28:40+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:31:25+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:31:26+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:31:27+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:31:51+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:31:52+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:31:52+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:33:44+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:35:08+08:00 ] 127.0.0.1 /imc/Match/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T20:35:46+08:00 ] 127.0.0.1 /imc/Match/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:36:07+08:00 ] 127.0.0.1 /imc/Match/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:36:08+08:00 ] 127.0.0.1 /imc/Match/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:36:08+08:00 ] 127.0.0.1 /imc/Match/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:36:12+08:00 ] 127.0.0.1 /imc/Match/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:37:04+08:00 ] 127.0.0.1 /imc/Match/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:37:04+08:00 ] 127.0.0.1 /imc/Match/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:37:04+08:00 ] 127.0.0.1 /imc/Match/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:37:04+08:00 ] 127.0.0.1 /imc/Match/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: 没有定义数据库配置
+
+[ 2018-03-22T20:38:17+08:00 ] 127.0.0.1 /imc/Match/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.017001s ]
+SQL: SELECT * FROM `user_info` WHERE ( id=1 )  [ RunTime:0.002000s ]
+
+[ 2018-03-22T20:39:31+08:00 ] 127.0.0.1 /imc/Match/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.015001s ]
+SQL: SELECT * FROM `user_info` WHERE ( id=1 )  [ RunTime:0.003000s ]
+
+[ 2018-03-22T20:39:32+08:00 ] 127.0.0.1 /imc/Match/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.013000s ]
+SQL: SELECT * FROM `user_info` WHERE ( id=1 )  [ RunTime:0.003001s ]
+
+[ 2018-03-22T20:39:36+08:00 ] 127.0.0.1 /imc/Match/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.013000s ]
+SQL: SELECT * FROM `user_info` WHERE ( id=1 )  [ RunTime:0.002000s ]
+
+[ 2018-03-22T20:39:42+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: dao D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Common\IMMatch.class.php 第 47 行.
+
+[ 2018-03-22T20:40:10+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: Think\Model:addConnect方法不存在！
+
+[ 2018-03-22T20:40:27+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: Think\Model:addConnect方法不存在！
+
+[ 2018-03-22T20:40:28+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: Think\Model:addConnect方法不存在！
+
+[ 2018-03-22T20:42:30+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T20:42:54+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: Think\Model:addConnect方法不存在！
+
+[ 2018-03-22T20:44:36+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T20:49:00+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T20:49:12+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T20:50:13+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T20:50:46+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+ERR: Unknown database 'db_im'
+
+[ 2018-03-22T20:51:30+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.017001s ]
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.001000s ]
+
+[ 2018-03-22T20:56:49+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T20:57:22+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 18 行.
+
+[ 2018-03-22T20:58:14+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.014000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T20:58:51+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.013000s ]
+SQL: SELECT * FROM `user_info` LIMIT 1   [ RunTime:0.002000s ]
+
+[ 2018-03-22T21:00:14+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [2] Missing argument 1 for MatchEngine\Model\BaseModel::__construct(), called in D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Common\IMMatch.class.php on line 48 and defined D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 16 行.
+NOTIC: [8] Undefined variable: DBName D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.015001s ]
+SQL: SELECT * FROM `user_info` LIMIT 1   [ RunTime:0.002000s ]
+
+[ 2018-03-22T21:00:31+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.012000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:02:32+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.012001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:02:33+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.013001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:06:27+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.013001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.001000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:07:43+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.117007s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.001000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:07:43+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.016001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.001000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:07:44+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.014001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:07:44+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.015001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:07:44+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.013001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.001000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:08:05+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.013000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.001000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:08:23+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.016000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:10:25+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.017001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:10:27+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.012000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.001000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:10:27+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.014001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.001000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:10:28+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.013000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:10:28+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.014000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.001000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:10:29+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.013001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:10:29+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.013001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:10:29+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.012001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:10:30+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.018001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:10:31+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.015001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:14:49+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T21:15:40+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.016001s ]
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.001000s ]
+
+[ 2018-03-22T21:23:16+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 17 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.013001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:23:18+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: connection D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Model\BaseModel.class.php 第 17 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.017001s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_buy`
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:Table 'bourse.order_buy' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `order_buy` LIMIT 1  
+
+[ 2018-03-22T21:24:10+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.015001s ]
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.001000s ]
+
+[ 2018-03-22T21:35:28+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.017001s ]
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: dao D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Common\IMMatch.class.php 第 55 行.
+
+[ 2018-03-22T21:36:33+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T21:37:07+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T21:37:08+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+
+[ 2018-03-22T21:37:40+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `order_buy` [ RunTime:0.019001s ]
+SQL: SELECT * FROM `order_buy` LIMIT 1   [ RunTime:0.001000s ]
+
+[ 2018-03-22T22:17:13+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [2] Redis::connect():  D:\phpStudy\PHPTutorial\WWW\imc\Core\Library\Think\Cache\Driver\Redis.class.php 第 44 行.
+ERR: Redis server went away
+
+[ 2018-03-22T22:17:35+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [2] Redis::connect():  D:\phpStudy\PHPTutorial\WWW\imc\Core\Library\Think\Cache\Driver\Redis.class.php 第 44 行.
+ERR: Redis server went away
+
+[ 2018-03-22T22:17:55+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [2] Redis::connect():  D:\phpStudy\PHPTutorial\WWW\imc\Core\Library\Think\Cache\Driver\Redis.class.php 第 44 行.
+ERR: Redis server went away
+
+[ 2018-03-22T22:17:56+08:00 ] 127.0.0.1 /imc/Match/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of MatchEngine\Controller\MatchController::get() should be compatible with Think\Controller::get($name = '') D:\phpStudy\PHPTutorial\WWW\imc\imapi\MatchEngine\Controller\MatchController.class.php 第 12 行.
+NOTIC: [2] Redis::connect():  D:\phpStudy\PHPTutorial\WWW\imc\Core\Library\Think\Cache\Driver\Redis.class.php 第 44 行.
+ERR: Redis server went away
+
